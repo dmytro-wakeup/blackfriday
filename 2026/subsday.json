@@ -1,0 +1,15 @@
+{
+  "name": "SubsDay",
+  "url": "https://subsday.appps.od.ua",
+  "description": "See subscription renewals in a calendar and import subscriptions automatically from the App Store and other sources",
+  "category": "business",
+  "platforms": [
+    "mac",
+    "ios"
+  ],
+  "deal": "Lifetime: $11.99 US Single (was $19.99); $15.99 US Family (was $26.99) BLKFR2026FAMILY",
+  "code": "BLKFR2026",
+  "pricing": "lifetime",
+  "startDate": "2026-11-15",
+  "endDate": "2026-12-01"
+}
